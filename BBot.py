@@ -21,4 +21,4 @@ async def spam(ctx): #run "!spam" to run the command
         await ctx.send("The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.\n")
         await ctx.send("\The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.The Klan has existed in three distinct eras.\n")
         
-bot.run ("ODYzMDIyMDY4MTk1MTMxNDEz.YOg17w.0QbyfbB9muQCir7H07y71S12FJU")
+bot.run ("your token here")
